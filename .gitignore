@@ -1,0 +1,9 @@
+node_modules/
+.env
+package-lock.json
+
+# File sampah Mac
+.DS_Store
+
+# Log error
+npm-debug.log*
